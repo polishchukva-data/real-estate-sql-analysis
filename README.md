@@ -1,3 +1,8 @@
+## Files
+
+- [SQL queries](sql/real_estate_market_analysis.sql)
+
+  
 ## SQL Analysis
 
 The project includes two analytical cases:
