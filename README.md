@@ -1,7 +1,7 @@
 ## Files
 
 - [SQL queries](sql/real_estate_market_analysis.sql)
-
+- Analysis report: [real_estate_market_analysis_report.pdf](documentation/real_estate_market_analysis_report.pdf)
   
 ## SQL Analysis
 
